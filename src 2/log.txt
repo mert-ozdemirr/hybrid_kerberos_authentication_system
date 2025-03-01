@@ -1,0 +1,6 @@
+Client client1 registered successfully.
+
+Server server1 registered successfully.
+
+Login successful. Ticket issued for client: client1 and server: server1
+
